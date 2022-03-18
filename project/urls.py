@@ -31,5 +31,5 @@ urlpatterns = [
     path('course_category/',views.course_category, name='course_category'),
     path('course_courses/',views.course_courses, name='course_courses'),
     path('course_course_details/',views.course_course_details, name='course_course_details'),
-    # path('course_add/',views.course_add, name='course_add')
+    
 ]
